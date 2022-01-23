@@ -37,7 +37,19 @@
   * npm run seed
   * npm start
   ### Screenshot of Deployed Application
-  ![Screenshot](undefined)
+  * Source schema to MySQL and seed the data
+<img width="1440" alt="Screen Shot 2022-01-23 at 12 06 01 PM" src="https://user-images.githubusercontent.com/91511805/150691805-0940c107-ce45-4fa0-8528-0c00481447a1.png">
+
+  * GET route to return products
+<img width="1440" alt="Screen Shot 2022-01-23 at 12 03 24 PM" src="https://user-images.githubusercontent.com/91511805/150691887-1c1f70a9-b204-44ee-9be5-fdba259de502.png">
+
+
+  * GET route to return categories
+<img width="1440" alt="Screen Shot 2022-01-23 at 12 03 38 PM" src="https://user-images.githubusercontent.com/91511805/150691893-ff3c519d-915a-4514-98ff-3c8e755284ba.png">
+
+
+  * GET route to return tags
+<img width="1440" alt="Screen Shot 2022-01-23 at 12 03 58 PM" src="https://user-images.githubusercontent.com/91511805/150691899-a1e31d27-1487-479f-88b3-6bda9fa2a765.png">
 
   ## Contributing
   There are no current guidelines for contribution.
